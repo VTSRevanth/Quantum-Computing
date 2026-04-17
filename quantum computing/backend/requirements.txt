@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+qiskit
+requests
+pydantic
+python-dotenv
